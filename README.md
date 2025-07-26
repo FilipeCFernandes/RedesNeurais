@@ -4,8 +4,8 @@ Repositório reuni os códigos-fonte e apresentações de slide utilizados na di
 O objetivo deste material é apoiar o aprendizado dos principais conceitos de Redes Neurais. 
 
 ## Conteúdo do repositório
-* 'slides/': Slides em formato pdf
-* 'notebooks': Notebooks Python implentados ao longo das aulas. 
+* `slides/`: Slides em formato pdf
+* `notebooks`: Notebooks Python implentados ao longo das aulas. 
 
 ## Bibliografia utilizada 
 * Haykin, Simon. Redes Neurais, princípios e prática. 2 Edição.
