@@ -5,7 +5,7 @@ O objetivo deste material é apoiar o aprendizado dos principais conceitos de Re
 
 ## Conteúdo do repositório
 * `slides/`: Slides em formato pdf
-* `notebooks`: Notebooks Python implentados ao longo das aulas. 
+* `notebooks/`: Notebooks Python implentados ao longo das aulas. 
 
 ## Bibliografia utilizada 
 * Haykin, Simon. Redes Neurais, princípios e prática. 2 Edição.
