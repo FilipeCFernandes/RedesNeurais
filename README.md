@@ -8,5 +8,5 @@ O objetivo deste material é apoiar o aprendizado dos principais conceitos de Re
 * `notebooks/`: Notebooks Python implentados ao longo das aulas. 
 
 ## Bibliografia utilizada 
-* Haykin, Simon. Redes Neurais, princípios e prática. 2 Edição.
-* Russell, Stuart e Norving, Peter. Inteligência Artificial, Uma Abordagem Moderna. Quarta Edição.
+* Haykin, Simon. Redes Neurais, princípios e prática. 2ª Edição.
+* Silva, Ivan N.; Spatti, Danilo H.; Flauzino, Rogério A.. Redes Neurais Artificiais para Engenharia e Ciências Aplicadas. 2ª Edição. 
